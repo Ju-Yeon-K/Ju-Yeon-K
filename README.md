@@ -4,8 +4,8 @@
 
 
 - 🌱 Ju yeon's Log
-* Korea University - bachelor's degree/ master's degree
-* SK Bioscience 
+  * Korea University - bachelor's degree/ master's degree
+  * SK Bioscience 
 
 <!--
 **jupearl/jupearl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
