@@ -1,11 +1,14 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on SSAFY (Samsung SW Academy For Youth).
+- 🤔 I’m looking for 
 
 
-- 🌱 Ju yeon's Log
-  * Korea University - bachelor's degree/ master's degree
+- 🌱 **Ju yeon's Log**
+  * Korea University - Bachelor's degree in Bio&Chemical Engineering department
+  * Korea University - Master's degree in Bio&Chemical Engineering department
   * SK Bioscience 
+
 
 <!--
 **jupearl/jupearl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
