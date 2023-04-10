@@ -11,6 +11,8 @@
   * SK Bioscience (2021 ~ 2022) - Research for biomedicine (ex. mRNA vaccine) in SK bioscience R&D lab (ex. Research for protein & mRNA detection assay)
   * SSAFY, Samsung SW Academy For Youth (2023 ~ ) NOW 💻📌
 
+- 🍷 Papers&Patents
+  * ~~~
 
 <!--
 **jupearl/jupearl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
