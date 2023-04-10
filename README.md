@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on SSAFY (Samsung SW Academy For Youth).
-- 🤔 I’m looking for 
+- 🔭 I’m currently a student of SSAFY (Samsung SW Academy For Youth).
+- 💭 I’m currently learning **Python/Django/DB/Vue/Java/Machine Leaning/**...
+- 💬 Please contact me if you have any questions  
 
 
 - 🌱 **Ju yeon's Log**
