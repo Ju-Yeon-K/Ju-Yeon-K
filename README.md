@@ -1,4 +1,4 @@
-### Hi there 👋
+### ⚡🌈 긴쥬 ⚡🌈
 
 - 🔭 I’m currently a student of SSAFY (Samsung SW Academy For Youth).
 - 💭 I’m currently learning **Python/Django/DB/Vue/Java/Machine Leaning/**...
@@ -9,6 +9,7 @@
   * Korea University (2015 ~ 2019) - Bachelor's degree in Bio&Chemical Engineering department
   * Korea University (2019 ~ 2021) - Master's degree in Bio&Chemical Engineering department 
   * SK Bioscience (2021 ~ 2022) - Research for biomedicine (ex. mRNA vaccine) in SK bioscience R&D lab (ex. Research for protein & mRNA detection assay)
+  * SSAFY, Samsung SW Academy For Youth (2023 ~ ) NOW 💻📌
 
 
 <!--
