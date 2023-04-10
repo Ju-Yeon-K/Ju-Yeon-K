@@ -6,9 +6,9 @@
 
 
 - 🌱 **Ju yeon's Log**
-  * Korea University - Bachelor's degree in Bio&Chemical Engineering department
-  * Korea University - Master's degree in Bio&Chemical Engineering department
-  * SK Bioscience 
+  * Korea University (2015 ~ 2019) - Bachelor's degree in Bio&Chemical Engineering department
+  * Korea University (2019 ~ 2021) - Master's degree in Bio&Chemical Engineering department 
+  * SK Bioscience (2021 ~ 2022) - Research for biomedicine (ex. mRNA vaccine) in SK bioscience R&D lab (ex. Research for protein & mRNA detection assay)
 
 
 <!--
