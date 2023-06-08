@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently a student of SSAFY (Samsung SW Academy For Youth).
 - 💭 I’m currently learning **Python/Django/DB/Vue/Java/Machine Leaning/**...
-- 💬 Please contact me if you have any questions [Insta](https://www.instagram.com/ju._.yeon.97/)
+- 💬 Please contact me if you have any question [Insta](https://www.instagram.com/ju._.yeon.97/)
 
 
 - 🌱 **Ju yeon's Log**
