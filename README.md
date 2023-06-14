@@ -1,7 +1,7 @@
 ### ⚡🌈 긴쥬 ⚡🌈
 
 - 🔭 I’m currently a student of SSAFY (Samsung SW Academy For Youth).
-- 💭 I’m currently learning **Python/Django/DB/Vue/Java/Machine Leaning/**...
+- 💭 I’m currently learning **Python/Django/DB/Vue/Java/**...
 - 💬 Please contact me if you have any question [Insta](https://www.instagram.com/ju._.yeon.97/)
 
 
@@ -11,8 +11,6 @@
   * SK Bioscience (2021 ~ 2022) - Research for biomedicine (ex. mRNA vaccine) in SK bioscience R&D lab (ex. Research for protein & mRNA detection assay)
   * SSAFY, Samsung SW Academy For Youth (2023 ~ ) NOW 💻📌
 
-- 🍷 Papers&Patents
-  * ~~~
 
 <!--
 **jupearl/jupearl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
