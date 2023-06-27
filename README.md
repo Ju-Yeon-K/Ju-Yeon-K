@@ -8,7 +8,10 @@
 <img src="https://img.shields.io/badge/-JAVA-007396?style=flat&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white">
 
 ## Projects
-[1] 인스타그램 벤치마킹 사진 공유 기반 커뮤니티 플랫폼 [2023.06.21 ~]
+
+[1] OpenCV 를 이용한 이미지 처리 자동화 [2020.05]
+[2] 캐릭터 커스텀 디자인 기능이 있는 영화 추천 웹 서비스 [2023.05 ]
+[3] 인스타그램 벤치마킹 사진 공유 기반 커뮤니티 플랫폼 [2023.06.21 ~]
  [Detail](https://github.com/jupearl/insta_clonecoding_pjt)
 
 ##  Ju yeon's Log
